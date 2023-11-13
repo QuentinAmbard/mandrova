@@ -17,8 +17,7 @@ import datetime
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
-from scipy import random, linalg, stats
+from scipy import linalg, stats
 from sklearn.preprocessing import Normalizer, StandardScaler
 
 from .generator.utils import Input
